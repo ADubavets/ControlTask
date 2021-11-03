@@ -18,6 +18,6 @@ public class SecondTask {
             }
             else symbol = sb.charAt(i);
         }
-        System.out.println("Определен первый неповторяющийся символ в строке: " + sb.charAt(k));
+        System.out.println("Определен первый неповторяющийся символ в строке: " + symbol);
     }
 }
